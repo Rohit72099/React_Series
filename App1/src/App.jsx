@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>hi rohit </h1>
+      <h2>this is new line</h2>
     </>
   )
 }
